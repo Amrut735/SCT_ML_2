@@ -2,6 +2,12 @@
 
 A powerful and interactive Streamlit application for customer segmentation using K-Means clustering with beautiful visualizations and real-time analysis.
 
+## 🌐 **Live Demo**
+
+**[🚀 Try the Live Application](https://kmeans-customerlens.streamlit.app/)**
+
+Experience the full interactive dashboard with real-time clustering analysis and beautiful visualizations.
+
 ## 🌟 Features
 
 ### 📊 **Interactive Dashboard**
